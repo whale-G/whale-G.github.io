@@ -1,11 +1,9 @@
 ---
 title: "Jekyll + GitHub Pages 个人博客搭建全记录"
-date: 2024-10-10
+date: 2025-10-10
 categories: [技术记录]
 tags: [环境搭建]
 ---
-
-# Jekyll + GitHub Pages 个人博客搭建全记录
 
 ## 前言
 
